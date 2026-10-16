@@ -1,2 +1,1 @@
-# DBPLAYFILES
-All the files are here
+Collaborative Website Development Project
